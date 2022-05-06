@@ -1,0 +1,2623 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": [
+      "Grama",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 318,
+      "vida": 45,
+      "ataque": 49,
+      "defesa": 49,
+      "sp-atk": 65,
+      "sp-def": 65,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": [
+      "Grama",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 405,
+      "vida": 60,
+      "ataque": 62,
+      "defesa": 63,
+      "sp-atk": 80,
+      "sp-def": 80,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": [
+      "Grama",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 525,
+      "vida": 80,
+      "ataque": 82,
+      "defesa": 83,
+      "sp-atk": 100,
+      "sp-def": 100,
+      "velocidade": 80
+    }
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 309,
+      "vida": 39,
+      "ataque": 52,
+      "defesa": 43,
+      "sp-atk": 60,
+      "sp-def": 50,
+      "velocidade": 65
+    }
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "prGelo": 2.50,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 405,
+      "vida": 58,
+      "ataque": 64,
+      "defesa": 58,
+      "sp-atk": 80,
+      "sp-def": 65,
+      "velocidade": 80
+    }
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "prGelo": 3.00,
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "stats": {
+      "total": 534,
+      "vida": 78,
+      "ataque": 84,
+      "defesa": 78,
+      "sp-atk": 109,
+      "sp-def": 85,
+      "velocidade": 100
+    }
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "prGelo": 2.50,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 314,
+      "vida": 44,
+      "ataque": 48,
+      "defesa": 65,
+      "sp-atk": 50,
+      "sp-def": 64,
+      "velocidade": 43
+    }
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 405,
+      "vida": 59,
+      "ataque": 63,
+      "defesa": 80,
+      "sp-atk": 65,
+      "sp-def": 80,
+      "velocidade": 58
+    }
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "prGelo": 2.50,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 530,
+      "vida": 79,
+      "ataque": 83,
+      "defesa": 100,
+      "sp-atk": 85,
+      "sp-def": 105,
+      "velocidade": 78
+    }
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "prGelo": 3.00,
+    "type": [
+      "Inseto"
+    ],
+    "stats": {
+      "total": 195,
+      "vida": 45,
+      "ataque": 30,
+      "defesa": 35,
+      "sp-atk": 20,
+      "sp-def": 20,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "prGelo": 3.00,
+    "type": [
+      "Inseto"
+    ],
+    "stats": {
+      "total": 205,
+      "vida": 50,
+      "ataque": 20,
+      "defesa": 55,
+      "sp-atk": 25,
+      "sp-def": 25,
+      "velocidade": 30
+    }
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "prGelo": 2.50,
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "stats": {
+      "total": 395,
+      "vida": 60,
+      "ataque": 45,
+      "defesa": 50,
+      "sp-atk": 90,
+      "sp-def": 80,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "prGelo": 1.00,
+    "type": [
+      "Inseto",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 195,
+      "vida": 40,
+      "ataque": 35,
+      "defesa": 30,
+      "sp-atk": 20,
+      "sp-def": 20,
+      "velocidade": 50
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "prGelo": 3.00,
+    "type": [
+      "Inseto",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 205,
+      "vida": 45,
+      "ataque": 25,
+      "defesa": 50,
+      "sp-atk": 25,
+      "sp-def": 25,
+      "velocidade": 35
+    }
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "prGelo": 2.50,
+    "type": [
+      "Inseto",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 395,
+      "vida": 65,
+      "ataque": 90,
+      "defesa": 40,
+      "sp-atk": 45,
+      "sp-def": 80,
+      "velocidade": 75
+    }
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "prGelo": 1.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 251,
+      "vida": 40,
+      "ataque": 45,
+      "defesa": 40,
+      "sp-atk": 35,
+      "sp-def": 35,
+      "velocidade": 56
+    }
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "prGelo": 1.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 349,
+      "vida": 63,
+      "ataque": 60,
+      "defesa": 55,
+      "sp-atk": 50,
+      "sp-def": 50,
+      "velocidade": 71
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "prGelo": 3.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 479,
+      "vida": 83,
+      "ataque": 80,
+      "defesa": 75,
+      "sp-atk": 70,
+      "sp-def": 70,
+      "velocidade": 101
+    }
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "prGelo": 1.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 253,
+      "vida": 30,
+      "ataque": 56,
+      "defesa": 35,
+      "sp-atk": 25,
+      "sp-def": 35,
+      "velocidade": 72
+    }
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "prGelo": 2.50,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 413,
+      "vida": 55,
+      "ataque": 81,
+      "defesa": 60,
+      "sp-atk": 50,
+      "sp-def": 70,
+      "velocidade": 97
+    }
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "prGelo": 1.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 262,
+      "vida": 40,
+      "ataque": 60,
+      "defesa": 30,
+      "sp-atk": 31,
+      "sp-def": 31,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "prGelo": 3.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 442,
+      "vida": 65,
+      "ataque": 90,
+      "defesa": 65,
+      "sp-atk": 61,
+      "sp-def": 61,
+      "velocidade": 100
+    }
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "prGelo": 3.00,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 288,
+      "vida": 35,
+      "ataque": 60,
+      "defesa": 44,
+      "sp-atk": 40,
+      "sp-def": 54,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "prGelo": 2.50,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 448,
+      "vida": 60,
+      "ataque": 95,
+      "defesa": 69,
+      "sp-atk": 65,
+      "sp-def": 79,
+      "velocidade": 80
+    }
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "prGelo": 10.00,
+    "type": [
+      "Elétrico"
+    ],
+    "stats": {
+      "total": 320,
+      "vida": 35,
+      "ataque": 55,
+      "defesa": 40,
+      "sp-atk": 50,
+      "sp-def": 50,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "prGelo": 3.00,
+    "type": [
+      "Elétrico"
+    ],
+    "stats": {
+      "total": 485,
+      "vida": 60,
+      "ataque": 90,
+      "defesa": 55,
+      "sp-atk": 90,
+      "sp-def": 80,
+      "velocidade": 110
+    }
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "prGelo": 1.00,
+    "type": [
+      "Terra"
+    ],
+    "stats": {
+      "total": 300,
+      "vida": 50,
+      "ataque": 75,
+      "defesa": 85,
+      "sp-atk": 20,
+      "sp-def": 30,
+      "velocidade": 40
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "prGelo": 2.50,
+    "type": [
+      "Terra"
+    ],
+    "stats": {
+      "total": 450,
+      "vida": 75,
+      "ataque": 100,
+      "defesa": 110,
+      "sp-atk": 45,
+      "sp-def": 55,
+      "velocidade": 65
+    }
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "prGelo": 7.00,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 275,
+      "vida": 55,
+      "ataque": 47,
+      "defesa": 52,
+      "sp-atk": 40,
+      "sp-def": 40,
+      "velocidade": 41
+    }
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "prGelo": 9.00,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 365,
+      "vida": 70,
+      "ataque": 62,
+      "defesa": 67,
+      "sp-atk": 55,
+      "sp-def": 55,
+      "velocidade": 56
+    }
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "prGelo": 8.00,
+    "type": [
+      "Veneno",
+      "Terra"
+    ],
+    "stats": {
+      "total": 505,
+      "vida": 90,
+      "ataque": 92,
+      "defesa": 87,
+      "sp-atk": 75,
+      "sp-def": 85,
+      "velocidade": 76
+    }
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "prGelo": 3.00,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 273,
+      "vida": 46,
+      "ataque": 57,
+      "defesa": 40,
+      "sp-atk": 40,
+      "sp-def": 40,
+      "velocidade": 50
+    }
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "prGelo": 1.00,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 365,
+      "vida": 61,
+      "ataque": 72,
+      "defesa": 57,
+      "sp-atk": 55,
+      "sp-def": 55,
+      "velocidade": 65
+    }
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "prGelo": 6.00,
+    "type": [
+      "Veneno",
+      "Terra"
+    ],
+    "stats": {
+      "total": 505,
+      "vida": 81,
+      "ataque": 102,
+      "defesa": 77,
+      "sp-atk": 85,
+      "sp-def": 75,
+      "velocidade": 85
+    }
+  },
+  {
+    "id": 35,
+    "name": "CleFada",
+    "prGelo": 3.00,
+    "type": [
+      "Fada"
+    ],
+    "stats": {
+      "total": 323,
+      "vida": 70,
+      "ataque": 45,
+      "defesa": 48,
+      "sp-atk": 60,
+      "sp-def": 65,
+      "velocidade": 35
+    }
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "prGelo": 2.50,
+    "type": [
+      "Fada"
+    ],
+    "stats": {
+      "total": 483,
+      "vida": 95,
+      "ataque": 70,
+      "defesa": 73,
+      "sp-atk": 95,
+      "sp-def": 90,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "prGelo": 1.00,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 299,
+      "vida": 38,
+      "ataque": 41,
+      "defesa": 40,
+      "sp-atk": 50,
+      "sp-def": 65,
+      "velocidade": 65
+    }
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "prGelo": 3.00,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 505,
+      "vida": 73,
+      "ataque": 76,
+      "defesa": 75,
+      "sp-atk": 81,
+      "sp-def": 100,
+      "velocidade": 100
+    }
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "prGelo": 4.00,
+    "type": [
+      "normal",
+      "Fada"
+    ],
+    "stats": {
+      "total": 270,
+      "vida": 115,
+      "ataque": 45,
+      "defesa": 20,
+      "sp-atk": 45,
+      "sp-def": 25,
+      "velocidade": 20
+    }
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "prGelo": 1.00,
+    "type": [
+      "normal",
+      "Fada"
+    ],
+    "stats": {
+      "total": 435,
+      "vida": 140,
+      "ataque": 70,
+      "defesa": 45,
+      "sp-atk": 85,
+      "sp-def": 50,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "prGelo": 3.00,
+    "type": [
+      "Veneno",
+      "Voador"
+    ],
+    "stats": {
+      "total": 245,
+      "vida": 40,
+      "ataque": 45,
+      "defesa": 35,
+      "sp-atk": 30,
+      "sp-def": 40,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "prGelo": 1.00,
+    "type": [
+      "Veneno",
+      "Voador"
+    ],
+    "stats": {
+      "total": 455,
+      "vida": 75,
+      "ataque": 80,
+      "defesa": 70,
+      "sp-atk": 65,
+      "sp-def": 75,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "prGelo": 2.50,
+    "type": [
+      "Veneno",
+      "Grama"
+    ],
+    "stats": {
+      "total": 320,
+      "vida": 45,
+      "ataque": 50,
+      "defesa": 55,
+      "sp-atk": 75,
+      "sp-def": 65,
+      "velocidade": 30
+    }
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "prGelo": 5.00,
+    "type": [
+      "Veneno",
+      "Grama"
+    ],
+    "stats": {
+      "total": 395,
+      "vida": 60,
+      "ataque": 65,
+      "defesa": 70,
+      "sp-atk": 85,
+      "sp-def": 75,
+      "velocidade": 40
+    }
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "prGelo": 7.00,
+    "type": [
+      "Veneno",
+      "Grama"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 75,
+      "ataque": 80,
+      "defesa": 85,
+      "sp-atk": 110,
+      "sp-def": 90,
+      "velocidade": 50
+    }
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "prGelo": 1.00,
+    "type": [
+      "Inseto",
+      "Grama"
+    ],
+    "stats": {
+      "total": 285,
+      "vida": 35,
+      "ataque": 70,
+      "defesa": 55,
+      "sp-atk": 45,
+      "sp-def": 55,
+      "velocidade": 25
+    }
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "prGelo": 1.00,
+    "type": [
+      "Inseto",
+      "Grama"
+    ],
+    "stats": {
+      "total": 405,
+      "vida": 60,
+      "ataque": 95,
+      "defesa": 80,
+      "sp-atk": 60,
+      "sp-def": 80,
+      "velocidade": 30
+    }
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "prGelo": 3.00,
+    "type": [
+      "Inseto",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 305,
+      "vida": 60,
+      "ataque": 55,
+      "defesa": 50,
+      "sp-atk": 40,
+      "sp-def": 55,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "prGelo": 9.00,
+    "type": [
+      "Inseto",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 450,
+      "vida": 70,
+      "ataque": 65,
+      "defesa": 60,
+      "sp-atk": 90,
+      "sp-def": 75,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "prGelo": 2.50,
+    "type": [
+      "Terra"
+    ],
+    "stats": {
+      "total": 265,
+      "vida": 10,
+      "ataque": 55,
+      "defesa": 25,
+      "sp-atk": 35,
+      "sp-def": 45,
+      "velocidade": 95
+    }
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "prGelo": 9.00,
+    "type": [
+      "Terra"
+    ],
+    "stats": {
+      "total": 425,
+      "vida": 35,
+      "ataque": 100,
+      "defesa": 50,
+      "sp-atk": 50,
+      "sp-def": 70,
+      "velocidade": 120
+    }
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "prGelo": 3.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 290,
+      "vida": 40,
+      "ataque": 45,
+      "defesa": 35,
+      "sp-atk": 40,
+      "sp-def": 40,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "prGelo": 1.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 440,
+      "vida": 65,
+      "ataque": 70,
+      "defesa": 60,
+      "sp-atk": 65,
+      "sp-def": 65,
+      "velocidade": 115
+    }
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 320,
+      "vida": 50,
+      "ataque": 52,
+      "defesa": 48,
+      "sp-atk": 65,
+      "sp-def": 50,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 500,
+      "vida": 80,
+      "ataque": 82,
+      "defesa": 78,
+      "sp-atk": 95,
+      "sp-def": 80,
+      "velocidade": 85
+    }
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "prGelo": 2.50,
+    "type": [
+      "lutador"
+    ],
+    "stats": {
+      "total": 305,
+      "vida": 40,
+      "ataque": 80,
+      "defesa": 35,
+      "sp-atk": 35,
+      "sp-def": 45,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "prGelo": 1.00,
+    "type": [
+      "lutador"
+    ],
+    "stats": {
+      "total": 455,
+      "vida": 65,
+      "ataque": 105,
+      "defesa": 60,
+      "sp-atk": 60,
+      "sp-def": 70,
+      "velocidade": 95
+    }
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "prGelo": 1.00,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 350,
+      "vida": 55,
+      "ataque": 70,
+      "defesa": 45,
+      "sp-atk": 70,
+      "sp-def": 50,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "prGelo": 1.00,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 555,
+      "vida": 90,
+      "ataque": 110,
+      "defesa": 80,
+      "sp-atk": 100,
+      "sp-def": 80,
+      "velocidade": 95
+    }
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 300,
+      "vida": 40,
+      "ataque": 50,
+      "defesa": 40,
+      "sp-atk": 40,
+      "sp-def": 40,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 385,
+      "vida": 65,
+      "ataque": 65,
+      "defesa": 65,
+      "sp-atk": 50,
+      "sp-def": 50,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "prGelo": 2.50,
+    "type": [
+      "Água",
+      "lutador"
+    ],
+    "stats": {
+      "total": 510,
+      "vida": 90,
+      "ataque": 95,
+      "defesa": 95,
+      "sp-atk": 70,
+      "sp-def": 90,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "prGelo": 1.00,
+    "type": [
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 310,
+      "vida": 25,
+      "ataque": 20,
+      "defesa": 15,
+      "sp-atk": 105,
+      "sp-def": 55,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "prGelo": 1.00,
+    "type": [
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 400,
+      "vida": 40,
+      "ataque": 35,
+      "defesa": 30,
+      "sp-atk": 120,
+      "sp-def": 70,
+      "velocidade": 105
+    }
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "prGelo": 1.00,
+    "type": [
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 500,
+      "vida": 55,
+      "ataque": 50,
+      "defesa": 45,
+      "sp-atk": 135,
+      "sp-def": 95,
+      "velocidade": 120
+    }
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "prGelo": 1.00,
+    "type": [
+      "lutador"
+    ],
+    "stats": {
+      "total": 305,
+      "vida": 70,
+      "ataque": 80,
+      "defesa": 50,
+      "sp-atk": 35,
+      "sp-def": 35,
+      "velocidade": 35
+    }
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "prGelo": 1.00,
+    "type": [
+      "lutador"
+    ],
+    "stats": {
+      "total": 405,
+      "vida": 80,
+      "ataque": 100,
+      "defesa": 70,
+      "sp-atk": 50,
+      "sp-def": 60,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "prGelo": 2.50,
+    "type": [
+      "lutador"
+    ],
+    "stats": {
+      "total": 505,
+      "vida": 90,
+      "ataque": 130,
+      "defesa": 80,
+      "sp-atk": 65,
+      "sp-def": 85,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "prGelo": 1.00,
+    "type": [
+      "Grama",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 300,
+      "vida": 50,
+      "ataque": 75,
+      "defesa": 35,
+      "sp-atk": 70,
+      "sp-def": 30,
+      "velocidade": 40
+    }
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "prGelo": 1.00,
+    "type": [
+      "Grama",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 390,
+      "vida": 65,
+      "ataque": 90,
+      "defesa": 50,
+      "sp-atk": 85,
+      "sp-def": 45,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "prGelo": 1.00,
+    "type": [
+      "Grama",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 80,
+      "ataque": 105,
+      "defesa": 65,
+      "sp-atk": 100,
+      "sp-def": 70,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "prGelo": 1.00,
+    "type": [
+      "Água",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 335,
+      "vida": 40,
+      "ataque": 40,
+      "defesa": 35,
+      "sp-atk": 50,
+      "sp-def": 100,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "prGelo": 2.50,
+    "type": [
+      "Água",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 515,
+      "vida": 80,
+      "ataque": 70,
+      "defesa": 65,
+      "sp-atk": 80,
+      "sp-def": 120,
+      "velocidade": 100
+    }
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "prGelo": 1.00,
+    "type": [
+      "Terra",
+      "Pedra"
+    ],
+    "stats": {
+      "total": 300,
+      "vida": 40,
+      "ataque": 80,
+      "defesa": 100,
+      "sp-atk": 30,
+      "sp-def": 30,
+      "velocidade": 20
+    }
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "type": [
+      "Terra",
+      "Pedra"
+    ],
+    "stats": {
+      "total": 390,
+      "vida": 55,
+      "ataque": 95,
+      "defesa": 115,
+      "sp-atk": 45,
+      "sp-def": 45,
+      "velocidade": 35
+    }
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "prGelo": 3.00,
+    "type": [
+      "Terra",
+      "Pedra"
+    ],
+    "stats": {
+      "total": 495,
+      "vida": 80,
+      "ataque": 120,
+      "defesa": 130,
+      "sp-atk": 55,
+      "sp-def": 65,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "prGelo": 3.00,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 410,
+      "vida": 50,
+      "ataque": 85,
+      "defesa": 55,
+      "sp-atk": 65,
+      "sp-def": 65,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "prGelo": 3.00,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 500,
+      "vida": 65,
+      "ataque": 100,
+      "defesa": 70,
+      "sp-atk": 80,
+      "sp-def": 80,
+      "velocidade": 105
+    }
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "prGelo": 3.00,
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 315,
+      "vida": 90,
+      "ataque": 65,
+      "defesa": 65,
+      "sp-atk": 40,
+      "sp-def": 40,
+      "velocidade": 15
+    }
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "prGelo": 1.00,
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 95,
+      "ataque": 75,
+      "defesa": 110,
+      "sp-atk": 100,
+      "sp-def": 80,
+      "velocidade": 30
+    }
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "prGelo": 2.50,
+    "type": [
+      "Elétrico",
+      "Ferro"
+    ],
+    "stats": {
+      "total": 325,
+      "vida": 25,
+      "ataque": 35,
+      "defesa": 70,
+      "sp-atk": 95,
+      "sp-def": 55,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "prGelo": 1.00,
+    "type": [
+      "Elétrico",
+      "Ferro"
+    ],
+    "stats": {
+      "total": 465,
+      "vida": 50,
+      "ataque": 60,
+      "defesa": 95,
+      "sp-atk": 120,
+      "sp-def": 70,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 83,
+    "name": "Farfetch\u0027d",
+    "prGelo": 3.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 377,
+      "vida": 52,
+      "ataque": 90,
+      "defesa": 55,
+      "sp-atk": 58,
+      "sp-def": 62,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "prGelo": 3.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 310,
+      "vida": 35,
+      "ataque": 85,
+      "defesa": 45,
+      "sp-atk": 35,
+      "sp-def": 35,
+      "velocidade": 75
+    }
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "prGelo": 3.00,
+    "type": [
+      "normal",
+      "Voador"
+    ],
+    "stats": {
+      "total": 470,
+      "vida": 60,
+      "ataque": 110,
+      "defesa": 70,
+      "sp-atk": 60,
+      "sp-def": 60,
+      "velocidade": 110
+    }
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 325,
+      "vida": 65,
+      "ataque": 45,
+      "defesa": 55,
+      "sp-atk": 45,
+      "sp-def": 70,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "prGelo": 2.50,
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "stats": {
+      "total": 475,
+      "vida": 90,
+      "ataque": 70,
+      "defesa": 80,
+      "sp-atk": 70,
+      "sp-def": 95,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 325,
+      "vida": 80,
+      "ataque": 80,
+      "defesa": 50,
+      "sp-atk": 40,
+      "sp-def": 50,
+      "velocidade": 25
+    }
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "prGelo": 1.00,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 500,
+      "vida": 105,
+      "ataque": 105,
+      "defesa": 75,
+      "sp-atk": 65,
+      "sp-def": 100,
+      "velocidade": 50
+    }
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 305,
+      "vida": 30,
+      "ataque": 65,
+      "defesa": 100,
+      "sp-atk": 45,
+      "sp-def": 25,
+      "velocidade": 40
+    }
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "stats": {
+      "total": 525,
+      "vida": 50,
+      "ataque": 95,
+      "defesa": 180,
+      "sp-atk": 85,
+      "sp-def": 45,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "prGelo": 3.00,
+    "type": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 310,
+      "vida": 30,
+      "ataque": 35,
+      "defesa": 30,
+      "sp-atk": 100,
+      "sp-def": 35,
+      "velocidade": 80
+    }
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "type": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 405,
+      "vida": 45,
+      "ataque": 50,
+      "defesa": 45,
+      "sp-atk": 115,
+      "sp-def": 55,
+      "velocidade": 95
+    }
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "type": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "stats": {
+      "total": 500,
+      "vida": 60,
+      "ataque": 65,
+      "defesa": 60,
+      "sp-atk": 130,
+      "sp-def": 75,
+      "velocidade": 110
+    }
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "prGelo": 2.50,
+    "type": [
+      "Pedra",
+      "Terra"
+    ],
+    "stats": {
+      "total": 385,
+      "vida": 35,
+      "ataque": 45,
+      "defesa": 160,
+      "sp-atk": 30,
+      "sp-def": 45,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "prGelo": 3.00,
+    "type": [
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 328,
+      "vida": 60,
+      "ataque": 48,
+      "defesa": 45,
+      "sp-atk": 43,
+      "sp-def": 90,
+      "velocidade": 42
+    }
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "prGelo": 2.50,
+    "type": [
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 483,
+      "vida": 85,
+      "ataque": 73,
+      "defesa": 70,
+      "sp-atk": 73,
+      "sp-def": 115,
+      "velocidade": 67
+    }
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "prGelo": 2.50,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 325,
+      "vida": 30,
+      "ataque": 105,
+      "defesa": 90,
+      "sp-atk": 25,
+      "sp-def": 25,
+      "velocidade": 50
+    }
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 475,
+      "vida": 55,
+      "ataque": 130,
+      "defesa": 115,
+      "sp-atk": 50,
+      "sp-def": 50,
+      "velocidade": 75
+    }
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "prGelo": 2.50,
+    "type": [
+      "Elétrico"
+    ],
+    "stats": {
+      "total": 330,
+      "vida": 40,
+      "ataque": 30,
+      "defesa": 50,
+      "sp-atk": 55,
+      "sp-def": 55,
+      "velocidade": 100
+    }
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "prGelo": 3.50,
+    "type": [
+      "Elétrico"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 60,
+      "ataque": 50,
+      "defesa": 70,
+      "sp-atk": 80,
+      "sp-def": 80,
+      "velocidade": 150
+    }
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "prGelo": 3.50,
+    "type": [
+      "Grama",
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 325,
+      "vida": 60,
+      "ataque": 40,
+      "defesa": 80,
+      "sp-atk": 60,
+      "sp-def": 45,
+      "velocidade": 40
+    }
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "type": [
+      "Grama",
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 530,
+      "vida": 95,
+      "ataque": 95,
+      "defesa": 85,
+      "sp-atk": 125,
+      "sp-def": 75,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "type": [
+      "Terra"
+    ],
+    "stats": {
+      "total": 320,
+      "vida": 50,
+      "ataque": 50,
+      "defesa": 95,
+      "sp-atk": 40,
+      "sp-def": 50,
+      "velocidade": 35
+    }
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "prGelo": 2.50,
+    "type": [
+      "Terra"
+    ],
+    "stats": {
+      "total": 425,
+      "vida": 60,
+      "ataque": 80,
+      "defesa": 110,
+      "sp-atk": 50,
+      "sp-def": 80,
+      "velocidade": 45
+    }
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "prGelo": 3.00,
+    "type": [
+      "lutador"
+    ],
+    "stats": {
+      "total": 455,
+      "vida": 50,
+      "ataque": 120,
+      "defesa": 53,
+      "sp-atk": 35,
+      "sp-def": 110,
+      "velocidade": 87
+    }
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "prGelo": 2.50,
+    "type": [
+      "lutador"
+    ],
+    "stats": {
+      "total": 455,
+      "vida": 50,
+      "ataque": 105,
+      "defesa": 79,
+      "sp-atk": 35,
+      "sp-def": 110,
+      "velocidade": 76
+    }
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "prGelo": 1.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 385,
+      "vida": 90,
+      "ataque": 55,
+      "defesa": 75,
+      "sp-atk": 60,
+      "sp-def": 75,
+      "velocidade": 30
+    }
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "prGelo": 2.50,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 340,
+      "vida": 40,
+      "ataque": 65,
+      "defesa": 95,
+      "sp-atk": 60,
+      "sp-def": 45,
+      "velocidade": 35
+    }
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "prGelo": 3.00,
+    "type": [
+      "Veneno"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 65,
+      "ataque": 90,
+      "defesa": 120,
+      "sp-atk": 85,
+      "sp-def": 70,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "prGelo": 3.00,
+    "type": [
+      "Terra",
+      "Pedra"
+    ],
+    "stats": {
+      "total": 345,
+      "vida": 80,
+      "ataque": 85,
+      "defesa": 95,
+      "sp-atk": 30,
+      "sp-def": 30,
+      "velocidade": 25
+    }
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "prGelo": 2.50,
+    "type": [
+      "Terra",
+      "Pedra"
+    ],
+    "stats": {
+      "total": 485,
+      "vida": 105,
+      "ataque": 130,
+      "defesa": 120,
+      "sp-atk": 45,
+      "sp-def": 45,
+      "velocidade": 40
+    }
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "prGelo": 1.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 450,
+      "vida": 250,
+      "ataque": 5,
+      "defesa": 5,
+      "sp-atk": 35,
+      "sp-def": 105,
+      "velocidade": 50
+    }
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "prGelo": 3.00,
+    "type": [
+      "Grama"
+    ],
+    "stats": {
+      "total": 435,
+      "vida": 65,
+      "ataque": 55,
+      "defesa": 115,
+      "sp-atk": 100,
+      "sp-def": 40,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "prGelo": 2.50,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 105,
+      "ataque": 95,
+      "defesa": 80,
+      "sp-atk": 40,
+      "sp-def": 80,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 295,
+      "vida": 30,
+      "ataque": 40,
+      "defesa": 70,
+      "sp-atk": 70,
+      "sp-def": 25,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 440,
+      "vida": 55,
+      "ataque": 65,
+      "defesa": 95,
+      "sp-atk": 95,
+      "sp-def": 45,
+      "velocidade": 85
+    }
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "prGelo": 3.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 320,
+      "vida": 45,
+      "ataque": 67,
+      "defesa": 60,
+      "sp-atk": 35,
+      "sp-def": 50,
+      "velocidade": 63
+    }
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "prGelo": 1.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 450,
+      "vida": 80,
+      "ataque": 92,
+      "defesa": 65,
+      "sp-atk": 65,
+      "sp-def": 80,
+      "velocidade": 68
+    }
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "prGelo": 2.50,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 340,
+      "vida": 30,
+      "ataque": 45,
+      "defesa": 55,
+      "sp-atk": 70,
+      "sp-def": 55,
+      "velocidade": 85
+    }
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "prGelo": 1.00,
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 520,
+      "vida": 60,
+      "ataque": 75,
+      "defesa": 85,
+      "sp-atk": 100,
+      "sp-def": 85,
+      "velocidade": 115
+    }
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "prGelo": 3.00,
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "stats": {
+      "total": 460,
+      "vida": 40,
+      "ataque": 45,
+      "defesa": 65,
+      "sp-atk": 100,
+      "sp-def": 120,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "prGelo": 3.00,
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "stats": {
+      "total": 500,
+      "vida": 70,
+      "ataque": 110,
+      "defesa": 80,
+      "sp-atk": 55,
+      "sp-def": 80,
+      "velocidade": 105
+    }
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "prGelo": 2.50,
+    "type": [
+      "Gelo",
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 455,
+      "vida": 65,
+      "ataque": 50,
+      "defesa": 35,
+      "sp-atk": 115,
+      "sp-def": 95,
+      "velocidade": 95
+    }
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "prGelo": 5.00,
+    "type": [
+      "Elétrico"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 65,
+      "ataque": 83,
+      "defesa": 57,
+      "sp-atk": 95,
+      "sp-def": 85,
+      "velocidade": 105
+    }
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "prGelo": 3.00,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 495,
+      "vida": 65,
+      "ataque": 95,
+      "defesa": 57,
+      "sp-atk": 100,
+      "sp-def": 85,
+      "velocidade": 93
+    }
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "prGelo": 1.00,
+    "type": [
+      "Inseto"
+    ],
+    "stats": {
+      "total": 500,
+      "vida": 65,
+      "ataque": 125,
+      "defesa": 100,
+      "sp-atk": 55,
+      "sp-def": 70,
+      "velocidade": 85
+    }
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "prGelo": 2.50,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 490,
+      "vida": 75,
+      "ataque": 100,
+      "defesa": 95,
+      "sp-atk": 40,
+      "sp-def": 70,
+      "velocidade": 110
+    }
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "prGelo": 7.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 200,
+      "vida": 20,
+      "ataque": 10,
+      "defesa": 55,
+      "sp-atk": 15,
+      "sp-def": 20,
+      "velocidade": 80
+    }
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "prGelo": 9.00,
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "stats": {
+      "total": 540,
+      "vida": 95,
+      "ataque": 125,
+      "defesa": 79,
+      "sp-atk": 60,
+      "sp-def": 100,
+      "velocidade": 81
+    }
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "prGelo": 8.00,
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "stats": {
+      "total": 535,
+      "vida": 130,
+      "ataque": 85,
+      "defesa": 80,
+      "sp-atk": 85,
+      "sp-def": 95,
+      "velocidade": 60
+    }
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "prGelo": 3.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 288,
+      "vida": 48,
+      "ataque": 48,
+      "defesa": 48,
+      "sp-atk": 48,
+      "sp-def": 48,
+      "velocidade": 48
+    }
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "prGelo": 1.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 325,
+      "vida": 55,
+      "ataque": 55,
+      "defesa": 50,
+      "sp-atk": 45,
+      "sp-def": 65,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "prGelo": 6.00,
+    "type": [
+      "Água"
+    ],
+    "stats": {
+      "total": 525,
+      "vida": 130,
+      "ataque": 65,
+      "defesa": 60,
+      "sp-atk": 110,
+      "sp-def": 95,
+      "velocidade": 65
+    }
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "prGelo": 3.00,
+    "type": [
+      "Elétrico"
+    ],
+    "stats": {
+      "total": 525,
+      "vida": 65,
+      "ataque": 65,
+      "defesa": 60,
+      "sp-atk": 110,
+      "sp-def": 95,
+      "velocidade": 130
+    }
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "prGelo": 2.50,
+    "type": [
+      "Fogo"
+    ],
+    "stats": {
+      "total": 525,
+      "vida": 65,
+      "ataque": 130,
+      "defesa": 60,
+      "sp-atk": 95,
+      "sp-def": 110,
+      "velocidade": 65
+    }
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "prGelo": 1.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 395,
+      "vida": 65,
+      "ataque": 60,
+      "defesa": 70,
+      "sp-atk": 85,
+      "sp-def": 75,
+      "velocidade": 40
+    }
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "prGelo": 3.00,
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "stats": {
+      "total": 355,
+      "vida": 35,
+      "ataque": 40,
+      "defesa": 100,
+      "sp-atk": 90,
+      "sp-def": 55,
+      "velocidade": 35
+    }
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "prGelo": 4.00,
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "stats": {
+      "total": 495,
+      "vida": 70,
+      "ataque": 60,
+      "defesa": 125,
+      "sp-atk": 115,
+      "sp-def": 70,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "prGelo": 1.00,
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "stats": {
+      "total": 355,
+      "vida": 30,
+      "ataque": 80,
+      "defesa": 90,
+      "sp-atk": 55,
+      "sp-def": 45,
+      "velocidade": 55
+    }
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "prGelo": 3.00,
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "stats": {
+      "total": 495,
+      "vida": 60,
+      "ataque": 115,
+      "defesa": 105,
+      "sp-atk": 65,
+      "sp-def": 70,
+      "velocidade": 80
+    }
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "prGelo": 1.00,
+    "type": [
+      "Pedra",
+      "Voador"
+    ],
+    "stats": {
+      "total": 515,
+      "vida": 80,
+      "ataque": 105,
+      "defesa": 65,
+      "sp-atk": 60,
+      "sp-def": 75,
+      "velocidade": 130
+    }
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "prGelo": 2.50,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 540,
+      "vida": 160,
+      "ataque": 110,
+      "defesa": 65,
+      "sp-atk": 65,
+      "sp-def": 110,
+      "velocidade": 30
+    }
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "prGelo": 5.00,
+    "type": [
+      "Gelo",
+      "Voador"
+    ],
+    "stats": {
+      "total": 580,
+      "vida": 90,
+      "ataque": 85,
+      "defesa": 100,
+      "sp-atk": 95,
+      "sp-def": 125,
+      "velocidade": 85
+    }
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "prGelo": 7.00,
+    "type": [
+      "Elétrico",
+      "Voador"
+    ],
+    "stats": {
+      "total": 580,
+      "vida": 90,
+      "ataque": 90,
+      "defesa": 85,
+      "sp-atk": 125,
+      "sp-def": 90,
+      "velocidade": 100
+    }
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "prGelo": 1.00,
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "stats": {
+      "total": 580,
+      "vida": 90,
+      "ataque": 100,
+      "defesa": 90,
+      "sp-atk": 125,
+      "sp-def": 85,
+      "velocidade": 90
+    }
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "prGelo": 1.00,
+    "type": [
+      "dragão"
+    ],
+    "stats": {
+      "total": 300,
+      "vida": 41,
+      "ataque": 64,
+      "defesa": 45,
+      "sp-atk": 50,
+      "sp-def": 50,
+      "velocidade": 50
+    }
+  },
+  {
+    "id": 148,
+    "name": "dragãoair",
+    "prGelo": 3.00,
+    "type": [
+      "dragão"
+    ],
+    "stats": {
+      "total": 420,
+      "vida": 61,
+      "ataque": 84,
+      "defesa": 65,
+      "sp-atk": 70,
+      "sp-def": 70,
+      "velocidade": 70
+    }
+  },
+  {
+    "id": 149,
+    "name": "dragãoite",
+    "prGelo": 9.00,
+    "type": [
+      "dragão",
+      "Voador"
+    ],
+    "stats": {
+      "total": 600,
+      "vida": 91,
+      "ataque": 134,
+      "defesa": 95,
+      "sp-atk": 100,
+      "sp-def": 100,
+      "velocidade": 80
+    }
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "prGelo": 2.50,
+    "type": [
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 680,
+      "vida": 106,
+      "ataque": 110,
+      "defesa": 90,
+      "sp-atk": 154,
+      "sp-def": 90,
+      "velocidade": 130
+    }
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "prGelo": 9.00,
+    "type": [
+      "Psíquico"
+    ],
+    "stats": {
+      "total": 600,
+      "vida": 100,
+      "ataque": 100,
+      "defesa": 100,
+      "sp-atk": 100,
+      "sp-def": 100,
+      "velocidade": 100
+    }
+  }
+]
