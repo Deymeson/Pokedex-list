@@ -2601,7 +2601,8 @@
       "sp-atk": 154,
       "sp-def": 90,
       "velocidade": 130
-    }
+    },
+    "lock": "lock"
   },
   {
     "id": 151,
