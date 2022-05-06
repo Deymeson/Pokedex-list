@@ -2553,7 +2553,7 @@
   },
   {
     "id": 148,
-    "name": "dragãoair",
+    "name": "dragonair",
     "prGelo": 3.00,
     "type": [
       "dragão"
@@ -2570,7 +2570,7 @@
   },
   {
     "id": 149,
-    "name": "dragãoite",
+    "name": "dragonite",
     "prGelo": 9.00,
     "type": [
       "dragão",
